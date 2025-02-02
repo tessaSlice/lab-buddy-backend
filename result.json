@@ -1,0 +1,24 @@
+{
+    "sources": [
+        "Nizynski et al. - 2017 - Amyloidogenesis of Tau protein",
+        "Saroja et al. - 2022 - Astrocyte-secreted glypican-4 drives APOE4-depende",
+        "Shin et al. - 2020 - Red Ginseng Inhibits Tau Aggregation and Promotes ",
+        "Townsend et al. - 2020 - Aggregation Kinetics and Filament Structure of a T",
+        "M\u00fcller-Esparza et al. - 2020 - Bio-Layer Interferometry Analysis of the Target Bi",
+        "Despres et al. - 2019 - Major Differences between the Self-Assembly and Se",
+        "Min et al. - 2023 - Effects of Neighboring Phosphorylation Events on t",
+        "Mirbaha et al. - 2018 - Inert and seed-competent tau monomers suggest stru",
+        "Strittmatter et al. - 1994 - Isoform-specific interactions of apolipoprotein E ",
+        "Arndt et al. - 2018 - Coomassie Brilliant Blue Staining of Polyacrylami",
+        "Zhu et al. - 2022 - Heparan Sulfate Proteoglycans in Tauopathy",
+        "Coomassie Blue R-250 EMSA Tau ApoE Staining",
+        "Ziu et al. - 2020 - A dip-and-read optical aptasensor for detection o",
+        "Pascual et al. - 2017 - Immunological memory to hyperphosphorylated tau in",
+        "Walker - 1996 - Protein Blotting by the Capillary Metho",
+        "Nanavaty et al. - 2017 - Detection and Quantification Methods for Fibrillar",
+        "Heparin_APOE3cc_Tau mobility shift assay",
+        "Volpi and Maccari - 2015 - Glycosaminoglycan Blotting and Detection After Ele",
+        "2012_1_9_safetymanual"
+    ],
+    "text": "<think>\n\n</think>\n\nElectrophoresis is a technique used in biophysics and Cell Biology to study the movement of small molecules, such as ions or proteins, through a gel. It involves the use of an electric current to push charged particles toward one end of the gel, allowing their mobility to be measured.\n\n### Key Components:\n1. **Electrophoretic Force (EFF):** The force that moves the charged particles against the direction of their movement.\n2. **Electric Field:** Created by applying a voltage across the gel, which drives the movement of the particles.\n3. **Gel:** A matrix containing both negatively and positively charged components.\n\n### Types:\n- **Positive Electrophoretic Force (PEF):** Particles move toward the positive terminal of the electricity source.\n- **Negative Electrophoretic Force (NEF):** Particles move toward the negative terminal, typically used in research to study proteins.\n\n### Applications:\n1. **Ion Mobility:** Used to measure the size and charge distribution of cations (positive ions) in biological samples.\n2. **Protein Analysis:** A key technique in proteomics for studying protein movement under electric fields.\n3. **Bacterial Studies:** Used to study bacterial DNA, flagella, and cell walls.\n\n### Example:\n- **Electrophoretic Mobility Shift (EMS):** The difference in mobility between proteins in a sample versus a control is measured as an electrophoretic shift on the gel.\n\nElectrophoresis provides valuable insights into molecular dynamics and interactions within biological samples."
+}
